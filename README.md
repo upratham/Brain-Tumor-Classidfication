@@ -26,7 +26,7 @@ Keywords: Deep learning, Magnetic resonance imaging, Computational modeling, Tra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/brain-tumor-classification.git
+    git clone https://github.com/upratham/Brain-Tumor-Classification.git
     ```
 2. Navigate to the project directory:
     ```bash
