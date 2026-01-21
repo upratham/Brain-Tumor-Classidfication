@@ -1,0 +1,11 @@
+opendatasets
+pandas
+numpy
+tensorflow
+keras
+scikit-learn
+tqdm
+matplotlib
+seaborn
+Pillow
+opencv-python
